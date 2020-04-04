@@ -1,2 +1,2 @@
 # STGPExtensionMetric
-Host JS script
+Host JS script for SaveToGooglePhotos and ExtensionMetric
