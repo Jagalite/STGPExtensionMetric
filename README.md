@@ -1,0 +1,2 @@
+# STGPExtensionMetric
+Host JS script
